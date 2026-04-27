@@ -1,0 +1,15 @@
+{
+  "name": "project-break-1516",
+  "version": "1.0.0",
+  "description": "Tienda de ropa con catalogo y dashboard para los sprints 15 y 16",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^4.21.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.10.1"
+  }
+}
